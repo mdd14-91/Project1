@@ -1,1 +1,1 @@
-This branch includes code for the Student Grade Project.
+This branch includes code for the Student Grade project.
