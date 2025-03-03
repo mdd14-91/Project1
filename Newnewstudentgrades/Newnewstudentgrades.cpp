@@ -246,7 +246,7 @@ int main()
 {
     int exitcond;//flag for if lettergrade can't compute, terminate program
     
-    int noscores;//number of scores derived from reading file
+    int noscores;//number of names derived from reading file
     double averages[] = { 0,0,0,0,0,0,0,0,0,0 };
     string names[] = { "n/a", "n/a", "n/a", "n/a","n/a","n/a", "n/a", "n/a", "n/a","n/a"};
     string lettergrade[] = { "n/a", "n/a", "n/a", "n/a","n/a","n/a", "n/a", "n/a", "n/a","n/a"};
